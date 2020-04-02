@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     //开发人员提交的代码
-    //开发人员再次提交
+    //项目经理提交的代码
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
